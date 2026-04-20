@@ -1,0 +1,19 @@
+# credit-risk-fl-project/backend/requirements.txt
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+
+# ML / Data
+scikit-learn>=1.5.0
+lightgbm>=4.3.0
+pandas>=2.2.2
+numpy>=1.26.4
+shap>=0.45.0
+joblib>=1.4.2
+
+# Firebase
+firebase-admin>=6.5.0
+
+# Misc
+python-multipart>=0.0.9
+pydantic>=2.7.1
+python-dotenv>=1.0.1
