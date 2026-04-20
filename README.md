@@ -177,8 +177,6 @@ This project is the basis of a forthcoming **IEEE paper** on privacy-preserving 
 
 <div align="center">
 
-Built by [Atharva Chavan](https://linkedin.com/in/atharva-chavan1505) · [@gitatharvaa](https://github.com/gitatharvaa)
-
 *Turning financial exclusion into a solvable engineering problem.*
 
 </div>
